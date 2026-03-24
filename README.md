@@ -1,110 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=Nelson%20Fardilha%20Karlsson&fontSize=42&fontColor=00ff88&fontAlignY=40&desc=Backend%20Developer%20in%20progress%20%7C%20DAM%20%40%20Alan%20Turing&descSize=18&descColor=8b949e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=%3E_%20NELSON%20FARDILHA%20KARLSSON&fontSize=36&fontColor=00ff41&fontAlignY=45&desc=Backend%20Developer%20%7C%201%C2%BA%20DAM%20%7C%20CPIFP%20Alan%20Turing%20%7C%20M%C3%A1laga&descColor=00aa2b&descSize=14&animation=fadeIn" />
 
 </div>
 
+<br>
+
 <div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Estudiante+DAM+%7C+Backend+developer+en+formaci%C3%B3n;Java+%7C+SQL+%7C+Docker+%7C+AWS+%7C+Linux;Disponible+para+trabajar+%E2%80%94+M%C3%A1laga%2C+PTA;SMR+completado+%E2%80%94+s%C3%A9+d%C3%B3nde+corre+el+c%C3%B3digo)
+
+</div>
+
+---
+
+```bash
+$ whoami
+```
 
 ```
-  Estudiante de DAM · Enfoque backend · Disponible para trabajar · Málaga, España
+nelson@alan-turing:~$ cat profile.txt
+
+  Nombre  : Nelson Filipe Fardilha Karlsson
+  Alias   : NUXX-G
+  Rol     : Backend Developer (en formación)
+  Centro  : CPIFP Alan Turing · PTA Málaga · DAM Dual
+  Base    : CFGM SMR completado — redes, sistemas, Linux
+  Web     : https://nelsonffkarlsson.com
+  Status  : DISPONIBLE PARA TRABAJAR
 ```
 
-</div>
+> Vengo de SMR. Sé configurar servidores, redes y entornos antes de escribir una línea de código.
+> Eso me diferencia. Me interesa el **backend** — lógica, APIs, bases de datos, infraestructura.
 
 ---
 
-## `$ whoami`
+```bash
+$ cat skills.sh
+```
 
-Soy **Nelson**, estudiante de **1º DAM** en CPIFP Alan Turing (PTA Málaga), modalidad **dual**.  
-Vengo de SMR, así que entiendo el entorno donde se ejecutan las aplicaciones — redes, sistemas, servidores.  
-Me interesa el **desarrollo backend**: APIs, bases de datos, infraestructura, lógica de negocio.  
-Busco mi **primer empleo** donde aportar desde el día uno y seguir creciendo.
+```bash
+# Languages
+JAVA=21          # POO · Herencia · Interfaces · Patrones · Serialización
+JAVASCRIPT="ES6" # DOM · Fetch · Event Listeners · JSON
+SQL="MySQL"      # JOINs · Subconsultas · Agregados · Diseño E-R
+BASH="Linux CLI" # Scripts · SSH · Permisos · Servicios
 
-- 📍 Málaga, España — PTA
-- 🎯 Enfoque: **Backend development**
-- 🎓 DAM Dual · CPIFP Alan Turing
-- 💼 **Disponible para trabajar**
-- 🌐 [nelsonffkarlsson.com](https://nelsonffkarlsson.com)
+# Backend & Testing
+JUNIT=5          # TDD · Unit testing · Maven
+OOP="Sólido"     # Strategy · Template Method · Herencia · Polimorfismo
 
----
+# Infra & DevOps
+DOCKER="✓"       # Compose · Redes · Volúmenes · EC2 deploy
+AWS="✓"          # EC2 · S3 · VPC · IAM · Security Groups
+LINUX="✓"        # Ubuntu · Bash · Nginx · SSH · Systemd
+NGINX="✓"        # Proxy inverso · VPS propio en producción
 
-## `$ cat tech_stack.json`
-
-### Lenguajes
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-
-### Backend & Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-### Infraestructura & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Redes & Sistemas (base SMR)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-333333?style=for-the-badge&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003399?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+# Redes & Sistemas (base SMR)
+TCP_IP="✓"       # DNS · DHCP · Routing · Switching · Cisco Packet Tracer
+WINDOWS_SERVER="✓" # Active Directory · Usuarios · Permisos
+VIRTUALIZACION="✓"
+```
 
 ---
 
-## `$ ls -la proyectos/`
+```bash
+$ ls -la proyectos/
+```
 
-| Proyecto | Stack | Descripción |
-|---|---|---|
-| 🌐 [Portfolio web](https://nelsonffkarlsson.com) | HTML · CSS · JS | Portfolio personal con estética terminal, desplegado en VPS con dominio propio |
-| ☕ [JuegoRPG](https://github.com/NUXX-G/JuegoRPG) | Java 21 · Swing · POO | RPG por turnos con GUI Swing, 4 clases jugables, inventario, guardado por serialización y patrones Strategy/Template Method |
-| 🧮 [Calculadora JavaScript](https://github.com/NUXX-G/Calculadora-JavaScript) | JavaScript · HTML · CSS | Calculadora web con colores dinámicos por operación, soporte de teclado y gestión de errores |
-| 👥 [Gestión Empleados API](https://github.com/NUXX-G/Gestion-Empleados-API) | Java · OOP | API de gestión de empleados en Java con arquitectura orientada a objetos |
-| 🎲 [D&D Character Sheet](https://github.com/NUXX-G/DyD-Character-Sheet-Generator) | JavaScript · D&D 5e API | Generador de fichas de personaje para D&D 5e con integración de API externa |
+| # | Proyecto | Stack | Descripción |
+|---|---|---|---|
+| `01` | [⚔ JuegoRPG](https://github.com/NUXX-G/JuegoRPG) | `Java 21` `Swing` `OOP` | RPG por turnos con GUI, 4 clases jugables, inventario, guardado por serialización. Strategy & Template Method |
+| `02` | [👥 Gestión Empleados API](https://github.com/NUXX-G/Gestion-Empleados-API) | `Java` `OOP` | API de gestión con arquitectura OOP y colecciones |
+| `03` | [🌐 Portfolio Web](https://nelsonffkarlsson.com) | `JS` `HTML/CSS` `Nginx` `VPS` | Portfolio personal en producción. VPS propio, dominio real, Nginx |
+| `04` | [🎲 D&D Character Sheet](https://github.com/NUXX-G/DyD-Character-Sheet-Generator) | `JS ES6` `5e API` | Generador de fichas D&D 5e con API externa. Vanilla JS |
+| `05` | [🧮 Calculadora JS](https://github.com/NUXX-G/Calculadora-JavaScript) | `JS` `CSS Grid` | Calculadora con colores dinámicos y soporte de teclado |
 
 ---
 
-## `$ neofetch --stats`
+```bash
+$ neofetch --stats
+```
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NUXX-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=NUXX-G&show_icons=true&theme=terminal&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00aa2b" />
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&theme=terminal&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00aa2b" />
 
 </div>
 
 ---
 
-## `$ cat contacto.txt`
+```bash
+$ cat contribution_snake.md
+```
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/nelsonffkarlsson.com-00ff88?style=for-the-badge&logo=firefox&logoColor=black)](https://nelsonffkarlsson.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/)
-[![Email](https://img.shields.io/badge/nelson@nelsonffkarlsson.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelson@nelsonffkarlsson.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
+```bash
+$ cat contacto.txt
+```
+
+```
+nelson@alan-turing:~$ 
+
+  Web     → https://nelsonffkarlsson.com
+  Email   → nelson@nelsonffkarlsson.com
+  LinkedIn→ linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b
+  GitHub  → github.com/NUXX-G
+
+  [DISPONIBLE PARA TRABAJAR — MÁLAGA / PTA / REMOTO]
+```
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0f23&height=100&section=footer" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://nelsonffkarlsson.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:nelson@nelsonffkarlsson.com)
+[![CV](https://img.shields.io/badge/Descargar_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=00ff41)](https://nelsonffkarlsson.com/cv_nelson_fardilha_karlsson.pdf)
 
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&text=CPIFP+ALAN+TURING+%7C+PTA+M%C3%81LAGA+%7C+DAM+DUAL+%7C+2024-2026&fontSize=10&fontColor=00aa2b" />
 </div>
