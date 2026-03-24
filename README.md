@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=2000&color=CC0000&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Nelson;Backend+Developer;Open+to+work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=2000&color=CC0000&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Nelson;Open+to+work" />
 </p>
 
 <p align="center">
   <a href="https://nelsonffkarlsson.com"><img src="https://img.shields.io/badge/Portfolio-cc0000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/"><img src="https://img.shields.io/badge/LinkedIn-cc0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nelson@nelsonffkarlsson.com"><img src="https://img.shields.io/badge/Email-cc0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://nelsonffkarlsson.com/cv_nelson_fardilha_karlsson.pdf"><img src="https://img.shields.io/badge/CV-cc0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -43,14 +41,6 @@
 | Tools | `Git` `IntelliJ` `VS Code` |
 
 ---
-
-## // STATS
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NUXX-G&show_icons=true&hide_border=true&title_color=cc0000&icon_color=cc0000" />
-  &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&hide_border=true&title_color=cc0000" />
-</p>
 
 <p align="center">
   <picture>
