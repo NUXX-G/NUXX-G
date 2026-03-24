@@ -34,7 +34,7 @@
 
 | Area | Technologies |
 |---|---|
-| Languages | `Java 21` `JavaScript ES6` `SQL` `Bash` |
+| Languages | `Java 21` `JavaScript ES6` `SQL` |
 | Backend | `OOP` `JUnit 5` `MySQL` `REST` |
 | Infra | `Docker` `AWS EC2/S3/VPC` `Linux` `Nginx` |
 | Networking | `TCP/IP` `DNS` `DHCP` `Cisco` `Active Directory` |
