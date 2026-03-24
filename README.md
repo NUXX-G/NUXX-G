@@ -1,139 +1,78 @@
-<div align="center">
+<h2 align="center">Nelson Fardilha Karlsson</h2>
+<h4 align="center">Backend Developer · Spain</h4>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=%3E_%20NELSON%20FARDILHA%20KARLSSON&fontSize=36&fontColor=00ff41&fontAlignY=45&desc=Backend%20Developer%20%7C%201%C2%BA%20DAM%20%7C%20CPIFP%20Alan%20Turing%20%7C%20M%C3%A1laga&descColor=00aa2b&descSize=14&animation=fadeIn" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Estudiante+DAM+%7C+Backend+developer+en+formaci%C3%B3n;Java+%7C+SQL+%7C+Docker+%7C+AWS+%7C+Linux;Disponible+para+trabajar+%E2%80%94+M%C3%A1laga%2C+PTA;SMR+completado+%E2%80%94+s%C3%A9+d%C3%B3nde+corre+el+c%C3%B3digo)
-
-</div>
+<p align="center">
+  <a href="https://nelsonffkarlsson.com"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nelson@nelsonffkarlsson.com"><img src="https://img.shields.io/badge/nelson@nelsonffkarlsson.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://nelsonffkarlsson.com/cv_nelson_fardilha_karlsson.pdf"><img src="https://img.shields.io/badge/CV-0d0d0d?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=flat-square" />
+</p>
 
 ---
 
-```bash
-$ whoami
-```
-
-```
-nelson@alan-turing:~$ cat profile.txt
-
-  Nombre  : Nelson Filipe Fardilha Karlsson
-  Alias   : NUXX-G
-  Rol     : Backend Developer (en formación)
-  Centro  : CPIFP Alan Turing · PTA Málaga · DAM Dual
-  Base    : CFGM SMR completado — redes, sistemas, Linux
-  Web     : https://nelsonffkarlsson.com
-  Status  : DISPONIBLE PARA TRABAJAR
-```
-
-> Vengo de SMR. Sé configurar servidores, redes y entornos antes de escribir una línea de código.
-> Eso me diferencia. Me interesa el **backend** — lógica, APIs, bases de datos, infraestructura.
+Estudiante de **1º DAM** con base en **SMR** — sé configurar servidores, redes y entornos antes de escribir una línea de código. Me interesa el **backend**: lógica de negocio, APIs, bases de datos, infraestructura. Busco mi primer empleo donde aportar desde el día uno.
 
 ---
 
-```bash
-$ cat skills.sh
-```
+### Stack
 
-```bash
-# Languages
-JAVA=21          # POO · Herencia · Interfaces · Patrones · Serialización
-JAVASCRIPT="ES6" # DOM · Fetch · Event Listeners · JSON
-SQL="MySQL"      # JOINs · Subconsultas · Agregados · Diseño E-R
-BASH="Linux CLI" # Scripts · SSH · Permisos · Servicios
+**Languages**
 
-# Backend & Testing
-JUNIT=5          # TDD · Unit testing · Maven
-OOP="Sólido"     # Strategy · Template Method · Herencia · Polimorfismo
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-# Infra & DevOps
-DOCKER="✓"       # Compose · Redes · Volúmenes · EC2 deploy
-AWS="✓"          # EC2 · S3 · VPC · IAM · Security Groups
-LINUX="✓"        # Ubuntu · Bash · Nginx · SSH · Systemd
-NGINX="✓"        # Proxy inverso · VPS propio en producción
+**Backend & Testing**
 
-# Redes & Sistemas (base SMR)
-TCP_IP="✓"       # DNS · DHCP · Routing · Switching · Cisco Packet Tracer
-WINDOWS_SERVER="✓" # Active Directory · Usuarios · Permisos
-VIRTUALIZACION="✓"
-```
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
----
+**Infra & DevOps**
 
-```bash
-$ ls -la proyectos/
-```
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-| # | Proyecto | Stack | Descripción |
-|---|---|---|---|
-| `01` | [⚔ JuegoRPG](https://github.com/NUXX-G/JuegoRPG) | `Java 21` `Swing` `OOP` | RPG por turnos con GUI, 4 clases jugables, inventario, guardado por serialización. Strategy & Template Method |
-| `02` | [👥 Gestión Empleados API](https://github.com/NUXX-G/Gestion-Empleados-API) | `Java` `OOP` | API de gestión con arquitectura OOP y colecciones |
-| `03` | [🌐 Portfolio Web](https://nelsonffkarlsson.com) | `JS` `HTML/CSS` `Nginx` `VPS` | Portfolio personal en producción. VPS propio, dominio real, Nginx |
-| `04` | [🎲 D&D Character Sheet](https://github.com/NUXX-G/DyD-Character-Sheet-Generator) | `JS ES6` `5e API` | Generador de fichas D&D 5e con API externa. Vanilla JS |
-| `05` | [🧮 Calculadora JS](https://github.com/NUXX-G/Calculadora-JavaScript) | `JS` `CSS Grid` | Calculadora con colores dinámicos y soporte de teclado |
+**Networking & Systems**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003399?style=flat-square&logo=microsoft&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-```bash
-$ neofetch --stats
-```
+### Projects
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=NUXX-G&show_icons=true&theme=terminal&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00aa2b" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&theme=terminal&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00aa2b" />
-
-</div>
+| Project | Stack | Description |
+|---|---|---|
+| [JuegoRPG](https://github.com/NUXX-G/JuegoRPG) | Java 21 · Swing · OOP | Turn-based RPG with GUI, 4 playable classes, inventory system, serialization. Strategy & Template Method patterns |
+| [Gestion-Empleados-API](https://github.com/NUXX-G/Gestion-Empleados-API) | Java · OOP | Employee management API with object-oriented architecture |
+| [Portfolio](https://nelsonffkarlsson.com) | JS · HTML/CSS · Nginx | Personal portfolio deployed on a VPS with custom domain |
+| [DyD-Character-Sheet](https://github.com/NUXX-G/DyD-Character-Sheet-Generator) | JS ES6 · D&D 5e API | D&D 5e character sheet generator with external API integration |
+| [Calculadora-JavaScript](https://github.com/NUXX-G/Calculadora-JavaScript) | JS · CSS Grid | Web calculator with dynamic colors and full keyboard support |
 
 ---
 
-```bash
-$ cat contribution_snake.md
-```
+### Stats
 
-<div align="center">
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NUXX-G&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&hide_border=true&theme=default" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-```bash
-$ cat contacto.txt
-```
-
-```
-nelson@alan-turing:~$ 
-
-  Web     → https://nelsonffkarlsson.com
-  Email   → nelson@nelsonffkarlsson.com
-  LinkedIn→ linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b
-  GitHub  → github.com/NUXX-G
-
-  [DISPONIBLE PARA TRABAJAR — MÁLAGA / PTA / REMOTO]
-```
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://nelsonffkarlsson.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:nelson@nelsonffkarlsson.com)
-[![CV](https://img.shields.io/badge/Descargar_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=00ff41)](https://nelsonffkarlsson.com/cv_nelson_fardilha_karlsson.pdf)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&text=CPIFP+ALAN+TURING+%7C+PTA+M%C3%81LAGA+%7C+DAM+DUAL+%7C+2024-2026&fontSize=10&fontColor=00aa2b" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
