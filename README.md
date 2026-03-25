@@ -26,7 +26,11 @@
 
 **Technologies**
 
-[![Tech](https://skillicons.dev/icons?i=mysql,docker,aws,linux,nginx,git,vscode,idea)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=mysql,docker,aws,linux,nginx,apache,git,vscode,idea)](https://skillicons.dev)
+
+**Networking & Systems**
+
+[![SMR](https://skillicons.dev/icons?i=windows,cisco)](https://skillicons.dev)
 
 ---
 
