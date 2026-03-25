@@ -11,22 +11,25 @@
 
 ## // ABOUT ME
 
-I'm a backend-focused developer currently studying DAM in Spain, building projects on the side while looking for my first job in tech.
+Backend-focused developer based in Spain, currently studying DAM while building projects on the side and looking for my first job in tech.
 
-I got into programming through SMR — two years learning how networks, servers and operating systems actually work under the hood. That foundation pushed me toward backend: I want to build the logic, the APIs, the infrastructure. The stuff that actually runs things.
+I came through SMR — two years working with networks, servers and operating systems from the ground up. That's what pulled me toward backend: I already understood the environment where the code runs before I wrote a line of it.
 
-Outside of code I'm into video games — they're part of why I got into this. Building something that works and feels good is the same whether it's a game or a system.
+Outside of coding I'm into video games. They're actually part of why I ended up here — I want to build things that work, and work well.
 
-I'm still learning but I ship projects, I'm consistent and I pick things up fast.
+I'm still early in my career but I'm consistent, I learn fast and I ship.
 
 ---
 
-## // PROJECTS
+## // FEATURED PROJECTS
 
-| Project | Stack | Description |
-|---|---|---|
-| [JuegoRPG](https://github.com/NUXX-G/JuegoRPG) | `Java 21` `Swing` | Turn-based RPG with GUI, 4 classes, inventory, serialization. Strategy & Template Method |
-| [DyD-Character-Sheet](https://github.com/NUXX-G/DyD-Character-Sheet-Generator) | `JS ES6` `REST API` | D&D 5e character sheet generator with external API integration |
+**[JuegoRPG](https://github.com/NUXX-G/JuegoRPG)** `Java 21` `Swing` `OOP`
+
+Turn-based RPG with a Swing GUI. Implemented the Strategy pattern to handle each class's combat behaviour independently, and Template Method to share structure across character types without duplicating code. Save system built with Java serialization.
+
+**[DyD-Character-Sheet](https://github.com/NUXX-G/DyD-Character-Sheet-Generator)** `JavaScript ES6` `REST API`
+
+D&D 5e character sheet generator that consumes an external REST API. Built in vanilla JS with no dependencies — focused on understanding how to work with asynchronous requests and dynamic DOM manipulation.
 
 ---
 
@@ -37,9 +40,6 @@ I'm still learning but I ship projects, I'm consistent and I pick things up fast
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Backend & Testing**
 
