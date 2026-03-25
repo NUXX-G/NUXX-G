@@ -9,11 +9,20 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-003399?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
 ---
@@ -23,10 +32,7 @@
 | Project | Stack | Description |
 |---|---|---|
 | [JuegoRPG](https://github.com/NUXX-G/JuegoRPG) | `Java 21` `Swing` | Turn-based RPG with GUI, 4 classes, inventory, serialization. Strategy & Template Method |
-| [Gestion-Empleados-API](https://github.com/NUXX-G/Gestion-Empleados-API) | `Java` `OOP` | Employee management API with object-oriented architecture |
-| [Portfolio](https://nelsonffkarlsson.com) | `JS` `Nginx` `VPS` | Personal portfolio deployed on a self-managed VPS with custom domain |
 | [DyD-Character-Sheet](https://github.com/NUXX-G/DyD-Character-Sheet-Generator) | `JS ES6` `REST API` | D&D 5e character sheet generator with external API integration |
-| [Calculadora-JavaScript](https://github.com/NUXX-G/Calculadora-JavaScript) | `JS` `CSS Grid` | Web calculator with dynamic colors and full keyboard support |
 
 ---
 
