@@ -12,9 +12,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: NUXX-G
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=cc0000&color_dots=#ebedf0,#ffcccc,#ff6666,#cc0000,#800000
-            dist/github-contribution-grid-snake-dark.svg?color_snake=cc0000&color_dots=#161b22,#3d0000,#660000,#990000,#cc0000
+         outputs: |
+           dist/github-contribution-grid-snake.svg
+           dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
