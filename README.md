@@ -7,24 +7,6 @@
   <a href="https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-003399?style=flat-square&logo=microsoft&logoColor=white" />
-</p>
-
 ---
 
 ## // PROJECTS
@@ -38,13 +20,13 @@
 
 ## // STACK
 
-| Area | Technologies |
-|---|---|
-| Languages | `Java 21` `JavaScript ES6` `SQL` |
-| Backend | `OOP` `JUnit 5` `MySQL` `REST` |
-| Infra | `Docker` `AWS EC2/S3/VPC` `Linux` `Nginx` |
-| Networking | `TCP/IP` `DNS` `DHCP` `Cisco` `Active Directory` |
-| Tools | `Git` `IntelliJ` `VS Code` |
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+
+**Technologies**
+
+[![Tech](https://skillicons.dev/icons?i=mysql,docker,aws,linux,nginx,git,vscode,idea)](https://skillicons.dev)
 
 ---
 
