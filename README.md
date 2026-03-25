@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=2000&color=CC0000&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Nelson;Open+to+work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Nelson;Open+to+work" />
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
 
 **Technologies**
 
-[![Tech](https://skillicons.dev/icons?i=mysql,docker,aws,linux,nginx,apache,git,vscode,idea)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=mysql,docker,aws,nginx,git,vscode,idea)](https://skillicons.dev)
 
 **Networking & Systems**
 
-[![SMR](https://skillicons.dev/icons?i=windows,cisco)](https://skillicons.dev)
+[![SMR](https://skillicons.dev/icons?i=linux,windows,cisco)](https://skillicons.dev)
 
 ---
 
