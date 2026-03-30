@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Nelson;Open+to+work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Nelson;Open+to+work" />
 </p>
 
 <p align="center">
-  <a href="https://nelsonffkarlsson.com"><img src="https://img.shields.io/badge/Portfolio-4A90D9?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://nelsonffkarlsson.com"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
 ---
