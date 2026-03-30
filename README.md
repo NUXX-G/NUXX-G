@@ -25,7 +25,7 @@ Always with a side project running.
 
 ## // FEATURED PROJECTS
 
-**[JuegoRPG](https://github.com/NUXX-G/JuegoRPG)** `Java 21` `Swing` `OOP`
+**[JuegoRPG](https://github.com/NUXX-G/JuegoRPG)** `Java 21` `Swing` `Serialization`
 
 Turn-based RPG with a Swing GUI. Implemented the Strategy pattern to handle each class's combat behaviour independently, and Template Method to share structure across character types without duplicating code. Persistent save system built with Java serialization.
 
