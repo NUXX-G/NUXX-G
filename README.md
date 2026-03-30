@@ -73,7 +73,7 @@ D&D 5e character sheet generator that consumes an external REST API. Built in va
 ![Virtualization](https://img.shields.io/badge/Virtualization-000000?style=flat-square)
 ![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-000000?style=flat-square)
 ![Routing](https://img.shields.io/badge/Routing_%26_Switching-000000?style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware%Assembly-000000?style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware_%26_Assembly-000000?style=flat-square)
 
 **Tools**
 
