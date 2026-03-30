@@ -27,11 +27,11 @@ Always with a side project running.
 
 **[JuegoRPG](https://github.com/NUXX-G/JuegoRPG)** `Java 21` `Swing` `OOP`
 
-Turn-based RPG with a Swing GUI. Implemented the Strategy pattern to handle each class's combat behaviour independently, and Template Method to share structure across character types without duplicating code. Save system built with Java serialization.
+Turn-based RPG with a Swing GUI. Implemented the Strategy pattern to handle each class's combat behaviour independently, and Template Method to share structure across character types without duplicating code. Persistent save system built with Java serialization.
 
-**[DyD-Character-Sheet](https://github.com/NUXX-G/DyD-Character-Sheet-Generator)** `JavaScript ES6` `REST API`
+**[Saving App]([https://github.com/NUXX-G/DyD-Character-Sheet-Generator](https://github.com/NUXX-G/Savings-App))** `Java 21` `Spring Boot` `MySQL`
 
-D&D 5e character sheet generator that consumes an external REST API. Built in vanilla JS with no dependencies — focused on understanding how to work with asynchronous requests and dynamic DOM manipulation.
+Personal finance REST API built with Spring Boot and MySQL. Handles income and expense tracking, savings goals with progress monitoring, and five saving methods — Kakeibo, 50/30/20, Pay Yourself First, 70/20/10 and Zero-Based Budget. Secured with JWT authentication and Spring Security. Deployed on a personal VPS.
 
 ---
 
@@ -40,7 +40,6 @@ D&D 5e character sheet generator that consumes an external REST API. Built in va
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend & Testing**
