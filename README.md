@@ -70,10 +70,10 @@ D&D 5e character sheet generator that consumes an external REST API. Built in va
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003399?style=flat-square&logo=microsoft&logoColor=white)
-![Virtualización](https://img.shields.io/badge/Virtualización-000000?style=flat-square)
+![Virtualization](https://img.shields.io/badge/Virtualization-000000?style=flat-square)
 ![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-000000?style=flat-square)
 ![Routing](https://img.shields.io/badge/Routing_%26_Switching-000000?style=flat-square)
-![Hardware](https://img.shields.io/badge/%26_Hardware-000000?style=flat-square)
+![Hardware & Assembly](https://img.shields.io/badge/-000000?style=flat-square)
 
 **Tools**
 
