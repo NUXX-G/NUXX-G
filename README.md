@@ -4,14 +4,7 @@
 
 <p align="center">
   <a href="https://nelsonffkarlsson.com"><img src="https://img.shields.io/badge/Portfolio-4A90D9?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
-<p align="center">
-  <a href="https://nelsonffkarlsson.com">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120&text=nelsonffkarlsson.com&fontSize=22&fontColor=4A90D9&animation=fadeIn" />
-  </a>
-</p>
 
 ---
 
