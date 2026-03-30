@@ -29,7 +29,7 @@ Always with a side project running.
 
 Turn-based RPG with a Swing GUI. Implemented the Strategy pattern to handle each class's combat behaviour independently, and Template Method to share structure across character types without duplicating code. Persistent save system built with Java serialization.
 
-**[Saving App]([https://github.com/NUXX-G/DyD-Character-Sheet-Generator](https://github.com/NUXX-G/Savings-App))** `Java 21` `Spring Boot` `MySQL`
+**[Saving App](https://github.com/NUXX-G/Savings-App)** `Java 21` `Spring Boot` `MySQL`
 
 Personal finance REST API built with Spring Boot and MySQL. Handles income and expense tracking, savings goals with progress monitoring, and five saving methods — Kakeibo, 50/30/20, Pay Yourself First, 70/20/10 and Zero-Based Budget. Secured with JWT authentication and Spring Security. Deployed on a personal VPS.
 
