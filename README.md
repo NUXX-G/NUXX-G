@@ -4,20 +4,21 @@
 
 <p align="center">
   <a href="https://nelsonffkarlsson.com"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## // ABOUT ME
 
-Backend-focused developer based in Spain, currently studying DAM while building projects on the side and looking for my first job in tech.
+Studying Software Development (vocational), with a prior vocational degree in IT Systems & Networking.
+Obsessed with backend development and building things just to see if I can.
+I like clean code, interesting problems, and learning by doing.
+Currently looking for my first job in backend dev.
 
-I came through SMR — two years working with networks, servers and operating systems from the ground up. That's what pulled me toward backend: I already understood the environment where the code runs before I wrote a line of it.
+When I'm not coding, you'll find me gaming, watching anime, reading, taking apart
+hardware, distro-hopping, or tinkering with new tech just out of curiosity.
 
-Outside of coding I'm into video games. They're actually part of why I ended up here — I want to build things that work, and work well.
-
-I'm still early in my career but I'm consistent, I learn fast and I ship.
+Always with a side project running.
 
 ---
 
