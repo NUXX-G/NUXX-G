@@ -14,7 +14,7 @@
 Studying Software Development (vocational), with a prior vocational degree in IT Systems & Networking.
 Obsessed with backend development and building things just to see if I can.
 I like clean code, interesting problems, and learning by doing.
-Currently looking for my first job in backend dev.
+Currently looking for backend opportunities.
 
 When I'm not coding, you'll find me gaming, watching anime, reading, taking apart
 hardware, distro-hopping, or tinkering with new tech just out of curiosity.
