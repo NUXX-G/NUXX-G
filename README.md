@@ -25,13 +25,12 @@ Always with a side project running.
 
 ## // FEATURED PROJECTS
 
-**[JuegoRPG](https://github.com/NUXX-G/JuegoRPG)** `Java 21` `Swing` `Serialization`
-
-Turn-based RPG with a Swing GUI. Implemented the Strategy pattern to handle each class's combat behaviour independently, and Template Method to share structure across character types without duplicating code. Persistent save system built with Java serialization.
-
-**[Saving App](https://github.com/NUXX-G/Savings-App)** `Java 21` `Spring Boot` `MySQL`
+**[Saving App](https://github.com/NUXX-G/Savings-App)** `Java 21` `Spring Boot` `MySQL` `REST API`
 
 Personal finance REST API built with Spring Boot and MySQL. Handles income and expense tracking, savings goals with progress monitoring, and five saving methods — Kakeibo, 50/30/20, Pay Yourself First, 70/20/10 and Zero-Based Budget. Secured with JWT authentication and Spring Security. Deployed on a personal VPS.
+
+**[FitTrack](https://github.com/NUXX-G/Fittrack)** `Java 21` `Spring Boot` `PostgreSQL` `JWT` `REST API`
+REST API backend combining fitness tracking and nutrition in one platform. Layered architecture with Spring Data JPA for persistence, Spring Security with JWT for authentication, and Gemini AI integration for food recognition and technique analysis.
 
 ---
 
