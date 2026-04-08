@@ -21,9 +21,9 @@ I like backend. Not because it's trendy — because it's where the actual logic 
 Clean architecture, well-designed systems, code that does what it's supposed to do
 without drama. That's what gets me.
 
-I recently started learning Rust and I genuinely can't stop thinking about it.
-The borrow checker will humble you, but once things click it feels like the language
-is actually helping you think. It's the kind of challenge I didn't know I was looking for.
+Java and Spring Boot are my main stack for backend. Rust is the other language
+I keep coming back to — something about reasoning over memory and ownership at
+compile time just makes sense to me. Two very different tools, both worth knowing well.
 
 When I'm not coding — gaming, watching anime, tinkering with hardware,
 distro-hopping, or reading about things I definitely don't need to know yet.
@@ -94,10 +94,6 @@ REST API backend combining fitness tracking and nutrition in one platform. Layer
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
 
 <p align="center">
   <picture>
