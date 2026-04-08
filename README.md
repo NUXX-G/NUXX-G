@@ -1,23 +1,32 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Nelson;Open+to+work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Nelson;Backend+Developer;Open+to+work" />
 </p>
 
 <p align="center">
   <a href="https://nelsonffkarlsson.com"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
-
 ---
 
 ## // ABOUT ME
 
-Studying Software Development (vocational), with a prior vocational degree in IT Systems & Networking.
-Obsessed with backend development and building things just to see if I can.
-I like clean code, interesting problems, and learning by doing.
-Currently looking for backend opportunities.
+I didn't go the university route — I did vocational training in IT Systems & Networking (SMR),
+spent two years elbow-deep in networks, servers and operating systems, and somehow ended up
+thinking "yeah, I want to write the code that runs on top of all this". So here I am.
 
-When I'm not coding, you'll find me gaming, watching anime, reading, taking apart
-hardware, distro-hopping, or tinkering with new tech just out of curiosity.
+Now I'm doing a vocational HND in Software Development (DAM) and building things on the side
+because waiting for class to teach me everything is not really my style.
+
+I like backend. Not because it's trendy — because it's where the actual logic lives.
+Clean architecture, well-designed systems, code that does what it's supposed to do
+without drama. That's what gets me.
+
+I recently started learning Rust and I genuinely can't stop thinking about it.
+The borrow checker will humble you, but once things click it feels like the language
+is actually helping you think. It's the kind of challenge I didn't know I was looking for.
+
+When I'm not coding — gaming, watching anime, tinkering with hardware,
+distro-hopping, or reading about things I definitely don't need to know yet.
 
 Always with a side project running.
 
@@ -25,11 +34,12 @@ Always with a side project running.
 
 ## // FEATURED PROJECTS
 
-**[Saving App](https://github.com/NUXX-G/Savings-App)** `Java 21` `Spring Boot` `MySQL` `REST API`
+**[Savings App](https://github.com/NUXX-G/Savings-App)** `Java 21` `Spring Boot` `MySQL` `REST API`
 
 Personal finance REST API built with Spring Boot and MySQL. Handles income and expense tracking, savings goals with progress monitoring, and five saving methods — Kakeibo, 50/30/20, Pay Yourself First, 70/20/10 and Zero-Based Budget. Secured with JWT authentication and Spring Security. Deployed on a personal VPS.
 
 **[FitTrack](https://github.com/NUXX-G/Fittrack)** `Java 21` `Spring Boot` `PostgreSQL` `JWT` `REST API`
+
 REST API backend combining fitness tracking and nutrition in one platform. Layered architecture with Spring Data JPA for persistence, Spring Security with JWT for authentication, and Gemini AI integration for food recognition and technique analysis.
 
 ---
@@ -39,16 +49,17 @@ REST API backend combining fitness tracking and nutrition in one platform. Layer
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend & Testing**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-000000?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Infra & DevOps**
 
@@ -83,6 +94,10 @@ REST API backend combining fitness tracking and nutrition in one platform. Layer
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
 
 <p align="center">
   <picture>
