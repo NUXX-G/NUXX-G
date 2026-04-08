@@ -96,7 +96,7 @@ REST API backend combining fitness tracking and nutrition in one platform. Layer
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-pi-eight-39.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=6&hide=tsql,html,css,javascript,papyrus" />
+  <img src="https://github-readme-stats-pi-eight-39.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=6&hide=tsql,html,css,javascript,papyrus,makefile" />
 </p>
 
 <p align="center">
