@@ -30,16 +30,3 @@ distro-hopping, or reading about things I definitely don't need to know yet.
 
 Always with a side project running.
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats-pi-eight-39.vercel.app/api/top-langs/?username=NUXX-G&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=6&hide=tsql,html,css,javascript,papyrus,makefile" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/NUXX-G/NUXX-G/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
