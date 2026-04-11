@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-[nelsonffkarlsson.com →](https://nelsonffkarlsson.com)
+  <a href="https://nelsonffkarlsson.com">nelsonffkarlsson.com →</a>
 </p>
 
 ---
@@ -29,4 +29,3 @@ When I'm not coding — gaming, watching anime, tinkering with hardware,
 distro-hopping, or reading about things I definitely don't need to know yet.
 
 Always with a side project running.
-
