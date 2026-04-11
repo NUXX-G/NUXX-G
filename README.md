@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://nelsonffkarlsson.com"><img src="https://img.shields.io/badge/nelsonffkarlsson.com-0d1117?style=for-the-badge&logoColor=7aaac8&color=0d1117&labelColor=21262d" /></a>
+[nelsonffkarlsson.com →](https://nelsonffkarlsson.com)
 </p>
 
 ---
