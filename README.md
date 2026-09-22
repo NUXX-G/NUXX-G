@@ -2,9 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Nelson;Open+to+work" />
 </p>
 
-<p align="center">
-  <a href="https://nelsonffkarlsson.com"><img src="https://img.shields.io/badge/nelsonffkarlsson.com-5a8aaa?style=for-the-badge&logoColor=0d1117" /></a>
-</p>
+
 
 ---
 
